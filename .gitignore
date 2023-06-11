@@ -127,7 +127,7 @@ product_data/dummy.json
 product_data/product_data.csv
 product_data/ProductsCollection.json
 
-# Environments
+# Environments 
 env
 .env
 .venv

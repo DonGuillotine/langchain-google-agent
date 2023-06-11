@@ -14,4 +14,4 @@ tools = [
 ]
 
 self_ask_with_search = initialize_agent(tools, llm, agent=AgentType.SELF_ASK_WITH_SEARCH, verbose=True)
-self_ask_with_search.run("What is the social media messaging with the most users?")
+self_ask_with_search.run("What is the social media messaging app with the most users?")
